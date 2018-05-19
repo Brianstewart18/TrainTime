@@ -10,7 +10,7 @@ $(document).ready(function()
 		{
             apiKey: "AIzaSyBX0zvXtAkO46uoMCK-dc7yMgLh_L3zvgk",
             authDomain: "traintime-5dad7.firebaseapp.com",
-            databaseURL: "https://traintime-5dad7.firebaseio.com",
+            databaseURL: "https://traintime-5dad7.firebaseio.com/",
             projectId: "traintime-5dad7",
             storageBucket: "traintime-5dad7.appspot.com",
             messagingSenderId: "872039472607"
